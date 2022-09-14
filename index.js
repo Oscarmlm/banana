@@ -5,6 +5,8 @@ const bananaApp = () => {
   return { alertMessage };
 };
 
+console.log('Feature 1309');
+
 console.log('Cambio 27');
 
 export default bananaApp;
