@@ -6,9 +6,8 @@ const bananaApp = () => {
 };
 
 console.log('Feature 1309 - 2');
-
 console.log('Feature 1309 - 1');
-
-console.log('Cambio 27');
+console.log('Cambio 27 - Develop');
+console.log('Cambio 05 - Develop');
 
 export default bananaApp;
