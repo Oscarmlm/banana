@@ -5,7 +5,9 @@ const bananaApp = () => {
   return { alertMessage };
 };
 
-console.log('Feature 1309');
+console.log('Feature 1309 - 2');
+
+console.log('Feature 1309 - 1');
 
 console.log('Cambio 27');
 
