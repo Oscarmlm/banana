@@ -8,4 +8,7 @@ GitHub es la plataforma que recomiendo para publicar los proyectos y crear el po
 
 - Git almacena la información como un conjunto de archivos.
 - No existen cambios, corrupción en archivos o cualquier alteración sin que Git lo sepa.
+- Casi todo en Git es local. Es difícil que se necesiten recursos o información externos, basta con los recursos locales con los que cuenta.
+- Git cuenta con 3 estados en los que es posible localizar archivos: Staged, Modified y Committed.
+
   **New Horizons**
