@@ -6,4 +6,6 @@ GitHub es la plataforma que recomiendo para publicar los proyectos y crear el po
 
 #### Características de Git
 
-**New Horizons**
+- Git almacena la información como un conjunto de archivos.
+- No existen cambios, corrupción en archivos o cualquier alteración sin que Git lo sepa.
+  **New Horizons**
