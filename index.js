@@ -7,6 +7,10 @@ const bananaApp = () => {
     console.log('😎 Rick & Morty');
   };
 
+  const houseOfDragons = () => {
+    console.log('🐲 House of Dragons');
+  };
+
   return { pokemon, rickAndMorty };
 };
 
