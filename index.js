@@ -11,7 +11,7 @@ const bananaApp = () => {
     console.log('🐲 House of Dragons');
   };
 
-  return { pokemon, rickAndMorty };
+  return { pokemon, rickAndMorty, houseOfDragons };
 };
 
 export default bananaApp;
